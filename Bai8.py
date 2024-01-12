@@ -1,3 +1,3 @@
-a = float(input("Nhập số thực a: "))
+a = float(input())
 T = a = int(a)
 print(T)
